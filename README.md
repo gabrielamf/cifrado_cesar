@@ -70,6 +70,6 @@
         return texto_descifrado  
 
 ***
-### DIAGRAMA DE FLUJO
+### DIAGRAMA DE FLUJO :
 
-![Atributo Alt](https://drive.google.com/file/d/0B3bpOQCV2XsLYXRZUl91Q0ZXcFU/view "diagrama_cifrado")
+![Atributo Alt](https://drive.google.com/file/d/0B3bpOQCV2XsLYXRZUl91Q0ZXcFU/view "diagrama_cifrado") 
